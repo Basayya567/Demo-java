@@ -85,6 +85,6 @@
   </div>
   <h1>BASAYYA</h1>
   <h2>DEVOPS ENGINEER</h2>
-  <button class="btn">Hire Me 🚀</button>
+  <button class="btn">Hire Me </button>
 </body>
 </html>
